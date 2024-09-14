@@ -5,6 +5,6 @@ Tiberi, L., Stapmanns, J. et al. "Gell-mann–low criticality in neural networks
 
 This GitHub repository serves as a placeholder and redirection to the full codebase hosted on Zenodo:
 
-<TODO: ADD LINK HERE>
+[https://zenodo.org/records/13763269](https://zenodo.org/records/13763269)
 
 
